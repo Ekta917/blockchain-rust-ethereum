@@ -12,6 +12,7 @@ use hex::ToHex;
 use std::path::PathBuf;
 use std::time::Duration;
 
+
 pub type SignerDeployedContract<T> = Contract<SignerMiddleware<Provider<T>, LocalWallet>>;
 
 #[tokio::main]
