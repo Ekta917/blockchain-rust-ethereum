@@ -1,10 +1,5 @@
 Just a test project to work with Ethereum but using Rust.
 
-I'm using plain Rust here, not Foundry. In future we will use Foundry.
-
-Hope you're already following my youtube channel where I build stuff with Rust - 
-https://www.youtube.com/c/AkhilSharmaTech
-
 Quick note if you want to run this project on your system.
 
 1. You need Rust installed

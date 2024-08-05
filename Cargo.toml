@@ -2,7 +2,7 @@
 name = "rust-for-ethereum"
 version = "0.1.0"
 edition = "2021"
-author = "akhil sharma"
+author = "Ekta Yadav"
 
 [dependencies]
 clap = {version="3.1.9", features = ["derive"]}
